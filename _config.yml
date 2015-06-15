@@ -1,0 +1,11 @@
+title: sudo
+description: "Very minimal theme for Jekyll aimed at personal blogging"
+# url: "http://oneohthree.github.io"
+url: "http://localhost:4000"
+twitter_username: unocerotres
+github_username:  oneohthree
+language: en_US
+paginate: 10
+paginate_path: "/page/:num/"
+permalink: none
+markdown: kramdown
